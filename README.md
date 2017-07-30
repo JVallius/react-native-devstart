@@ -1,2 +1,16 @@
 # react-native-devstart
-A PowerShell script that sets up a React Native Android development environment by starting processes and repositions the windows on the screen
+
+## ABOUT
+
+A PowerShell script that sets up a React Native Android development environment by starting processes and repositions the windows on the screen.
+	
+## HOW IT WORKS
+
+The script starts an Android Emulator and moves its to a specified location on the screen.
+Then, the PowerShell terminal windows are created and relocated as well.
+Finally, the script starts your favorite IDE.
+	
+## PREREQUISITES
+- React Native
+- Android Virtual Device (AVD)
+- Some IDE
